@@ -1,0 +1,1 @@
+# strongly-typed-strings
