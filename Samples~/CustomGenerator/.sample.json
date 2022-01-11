@@ -1,0 +1,5 @@
+{
+	"displayName":"Custom Generator",
+	"description": "A simple custom generator to use as base to create your own.",
+	"createSeparatePackage": false
+}

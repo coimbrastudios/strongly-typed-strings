@@ -1,0 +1,19 @@
+{
+  "name": "com.coimbra.stronglytypedstrings",
+  "displayName": "Strongly Typed Strings",
+  "author": "Bruno Coimbra",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Tool to generate strongly typed strings.\n\nBy default it can generate the following strong types:\n\n* Inputs\n* Layers\n* Scenes\n* Sorting Layers\n* Tags\n* Editor Default Resources\n* Gizmos\n* Resources\n* Streaming Assets\n\nYou can easily add more using the provided API.",
+  "type": "tool",
+  "dependencies": {
+    "com.unity.settings-manager": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Custom Generator",
+      "description": "A simple example of how to create new custom strongly-typed strings for your own use case.",
+      "path": "Samples~/CustomGenerator"
+    }
+  ]
+}
